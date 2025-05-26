@@ -1,2 +1,0 @@
-# spoguss
-hospedagemSpotify2
